@@ -56,7 +56,7 @@ strModulePath = 'targets/jonchki/repository/%s/%s/%s' % ('/'.join(aGroup), strMo
 
 
 # Set the name of the artifact.
-strArtifact = 'date'
+strArtifact = 'neturl'
 
 tArcList = atEnv.DEFAULT.ArchiveList('zip')
 
